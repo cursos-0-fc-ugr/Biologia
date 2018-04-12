@@ -11,11 +11,11 @@ Este repositorio se puede visitar en [GitHub pages](https://cursos-0-fc-ugr.gith
 1.1 [Bioelementos](Tema1/bloque_parte1.html)  
 1.2 [Biomoléculas inorgánicas](Tema1/bloque_parte2.html)  
 1.3 Biomoléculas orgánicas:  
-    1.3.1 [Carbohidratos](Tema1/bloque_parte3-1.html)  
-    1.3.2 [Lípidos](Tema1/bloque_parte3-2.html)  
-    1.3.3 [Proteínas](Tema1/bloque_parte3-3.html)  
-    1.3.4 [äcidos nucléicos](Tema1/bloque_parte3-4.html)  
-    1.3.5 [Videos](Tema1/bloque_parte3-5.html)  
+  * 1.3.1 [Carbohidratos](Tema1/bloque_parte3-1.html)  
+  * 1.3.2 [Lípidos](Tema1/bloque_parte3-2.html)  
+  * 1.3.3 [Proteínas](Tema1/bloque_parte3-3.html)  
+  * 1.3.4 [äcidos nucléicos](Tema1/bloque_parte3-4.html)  
+  * 1.3.5 [Videos](Tema1/bloque_parte3-5.html)  
   
 ### Tema 2: Estructura y función de las células
 2.1 [La célula](Tema2/bloqueII_parte1.html)  

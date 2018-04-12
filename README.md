@@ -11,7 +11,7 @@ Este repositorio se puede visitar en [GitHub pages](https://cursos-0-fc-ugr.gith
 1.1 [Bioelementos](Tema1/bloque_parte1.html)  
 1.2 [Biomoléculas inorgánicas](Tema1/bloque_parte2.html)  
 1.3 Biomoléculas orgánicas:  
-    1.3.1 [Carbohidratos](Tema1/bloque_parte3-1.html)  
+  * 1.3.1 [Carbohidratos](Tema1/bloque_parte3-1.html)  
     1.3.2 [Lípidos](Tema1/bloque_parte3-2.html)  
     1.3.3 [Proteínas](Tema1/bloque_parte3-3.html)  
     1.3.4 [äcidos nucléicos](Tema1/bloque_parte3-4.html)  
@@ -21,7 +21,7 @@ Este repositorio se puede visitar en [GitHub pages](https://cursos-0-fc-ugr.gith
 2.1 [La célula](Tema2/bloqueII_parte1.html)  
 2.2 [Tipos de células eucariotas](Tema2/bloqueII_parte2.html)  
 2.3 [Componentes de la célula eucariota y sus funciones](Tema2/bloqueII_parte3.html)  
-2.4 Videos](Tema2/bloqueII_parte4.html)  
+2.4 [Videos](Tema2/bloqueII_parte4.html)  
 
 ### Rema 3: Genética mendeliana y ciclo celular
 3.1 [El ciclo celular y la mitosis](Tema3/bloqueI_parte1.html)  

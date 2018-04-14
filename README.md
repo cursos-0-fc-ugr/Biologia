@@ -5,6 +5,8 @@ Material elaborado por los profesores Esperanza López Garrido, Vanessa M.Martos
 
 Este repositorio se puede visitar en [GitHub pages](https://cursos-0-fc-ugr.github.io/Biologia).
 
+Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](https://github.com/cursos-0-fc-ugr/Biologia/issues) de este repositorio.
+
 ## Contenidos
 
 ### Tema 1: La química de la vida

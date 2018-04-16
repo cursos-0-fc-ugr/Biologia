@@ -24,7 +24,7 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 2.3 [Componentes de la célula eucariota y sus funciones](Tema2/bloqueII_parte3.html)  
 2.4 [Videos](Tema2/bloqueII_parte4.html)  
 
-### Rema 3: Genética mendeliana y ciclo celular
+### Tema 3: Genética mendeliana y ciclo celular
 3.1 [El ciclo celular y la mitosis](Tema3/bloqueI_parte1.html)  
 3.2 [La meiosis](Tema3/bloqueI_parte2.html)  
 3.3 [Genética Mendeliana](Tema3/genetica-mendeliana.html)  

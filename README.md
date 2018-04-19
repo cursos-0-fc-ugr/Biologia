@@ -1,4 +1,4 @@
-# Biologia
+# Curso cero de Biología
 Curso cero de Biología de la Facultad de Ciencias de la Universidad de Granada
 
 Material elaborado por los profesores Esperanza López Garrido, Vanessa M.Martos Núñez y José Angel Traverso Gutiérrez, profesores de Biología de la Universidad de Granada, para el Curso Cero de la UGR.

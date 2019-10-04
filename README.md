@@ -31,7 +31,8 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 
 ### Tema 4: Biología vegetal
 4.1 [Estructura de las plantas](Tema4/bloqueI_parte1.html)  
-4.2 [Procesos metabólicos en plantas](Tema4/bloqueI_parte2.html)  
+4.2 [Procesos metabólicos en plantas](Tema4/bloqueI_parte2.html)
+4.3 [Enfermedades de las Plantas: Fitopatología](Tema5/bloqueI_parte3.html)
 
 ### Tema 5: Microbiología
 5.1 [Microorganismos](Tema5/bloqueII_parte1.html)  
@@ -40,6 +41,5 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 5.4 [Viroides, hongos, protozoos y algas](Tema5/bloqueII_parte4.html)  
 5.5 [Microorganismos y salud](Tema5/bloqueII_parte5.html)  
 5.6 [Microorganismos y medio ambiente](Tema5/bloqueII_parte6.html)  
-5.7 [Enfermedades en plantas](Tema5/bloqueII_parte7.html)  
 
 Estos contenidos forman parte del FIDO "IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS" de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada)

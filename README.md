@@ -15,7 +15,7 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
   * 1.3.1 [Carbohidratos](Tema1/bloqueI_parte3-1.html)  
   * 1.3.2 [Lípidos](Tema1/bloqueI_parte3-2.html)  
   * 1.3.3 [Proteínas](Tema1/bloqueI_parte3-3.html)  
-  * 1.3.4 [äcidos nucléicos](Tema1/bloqueI_parte3-4.html)  
+  * 1.3.4 [Ácidos nucléicos](Tema1/bloqueI_parte3-4.html)  
   * 1.3.5 [Videos](Tema1/bloqueI_parte3-5.html)  
   
 ### Tema 2: Estructura y función de las células

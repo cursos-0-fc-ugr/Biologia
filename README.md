@@ -31,7 +31,7 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 
 ### Tema 4: Biología vegetal
 4.1 [Estructura de las plantas](Tema4/bloqueI_parte1.html)  
-4.2 [Procesos metabólicos en plantas](Tema4/bloqueI_parte2.html)
+4.2 [Procesos metabólicos en plantas](Tema4/bloqueI_parte2.html)  
 4.3 [Enfermedades de las Plantas: Fitopatología](Tema5/bloqueI_parte3.html)
 
 ### Tema 5: Microbiología

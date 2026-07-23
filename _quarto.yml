@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Cursos 0 Biología"
+  back-to-top-navigation: true
+  page-footer: 
+    right: Made with [Quarto](https://quarto.org/)
+    #right: "Maintenance: the organizers"
+
+format:
+  html:
+    theme: sandstone
+    fontsize: 1.2em
+    toc: true
+    sidebar: false
+

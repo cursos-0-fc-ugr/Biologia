@@ -13,7 +13,7 @@ format:
     
 ---
 
-# La función de nutrición: importancia biológica y estructuras implicadas en diferentes grupos taxonómicos.
+# La función de nutrición: importancia biológica y estructuras implicadas en diferentes grupos taxonómicos. {#nutricion}
 
 Se trata del proceso de obtención, transformación y utilización de los nutrientes y la energía necesarios para el desarrollo y mantenimiento de los animales.
 
@@ -43,7 +43,7 @@ En esta función participan cuatro sistemas principales:
 ![](_media/image4.png){width="5.183333333333334in" height="3.998989501312336in"}
 :::
 
-# La función de relación: fisiología y funcionamiento de los sistemas de coordinación (nervioso y endocrino), de los receptores sensoriales, y de los órganos efectores.
+# La función de relación: fisiología y funcionamiento de los sistemas de coordinación (nervioso y endocrino), de los receptores sensoriales, y de los órganos efectores. {#relacion}
 
 Esta función permite la percepción de estímulos exteriores e interiores, el procesamiento de dicha información y la elaboración de respuestas que resulten beneficiosas para el organismo. Estos procesos pueden llevarse a cabo gracias a la coordinación de los siguientes sistemas:
 
@@ -59,7 +59,7 @@ Esta función permite la percepción de estímulos exteriores e interiores, el p
 
 4.  [Aparato locomotor]{.underline}: formado por esqueleto y músculos. La naturaleza del [sistema esquelético](https://es.wikipedia.org/wiki/Esqueleto) varía a lo largo del reino animal, pudiendo existir esqueletos hidráulicos (por movimiento de los fluidos internos del animal), esqueletos externos (partes endurecidas recubren el cuerpo blando del animal) y esqueletos internos (partes endurecidas en la parte interna del cuerpo). Por su parte, el [sistema muscular](https://es.wikipedia.org/wiki/Sistema_muscular) es el conjunto de músculos de un organismo y cuya función es la movilidad. Unos músculos son voluntarios (controlables conscientemente por el individuo) y otros funcionan de forma automática (como el [músculo cardíaco](https://es.wikipedia.org/wiki/Miocardio) y la [musculatura lisa](https://es.wikipedia.org/wiki/M%C3%BAsculo_liso)).
 
-# La función de reproducción: importancia biológica, tipos y estructuras implicadas en diferentes grupos taxonómicos.
+# La función de reproducción: importancia biológica, tipos y estructuras implicadas en diferentes grupos taxonómicos. {#reproduccion}
 
 Una de las características fundamentales de los seres vivos es la capacidad de reproducirse, de generar nuevos seres vivos con características similares a ellos mismos.
 

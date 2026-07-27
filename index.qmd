@@ -4,6 +4,16 @@ lang: es
 page-layout: full
 ---
 
+Curso cero de Biología para la Facultad de Ciencias de la Universidad de Granada. Puedes encontrar otros cursos cero de nuestro centro en este [enlace](https://cursos-0-fc-ugr.github.io/).
+
+Material elaborado por para el Curso Cero de la UGR por
+
+Este repositorio se puede visitar en [GitHub pages](https://github.com/dblanco-sudo/Biologia/).
+
+Para esta edición se han actualizado los contenidos y adaptado a la LOMLOE. La versión anterior está disponible en este [enlace](https://dblanco-sudo.github.io/Biologia/Curso_old/).
+
+
+
 # Índice de temas
 
 - [Fisiología e Histología Animal](Tema1_Fisiologia_Histologia_Animal/Tema1.html)

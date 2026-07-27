@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Genética Molecular</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="Tema5_files/libs/clipboard/clipboard.min.js"></script>
+<script src="Tema5_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="Tema5_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="Tema5_files/libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="Tema5_files/libs/quarto-html/popper.min.js"></script>
+<script src="Tema5_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="Tema5_files/libs/quarto-html/anchor.min.js"></script>
+<link href="Tema5_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="Tema5_files/libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="Tema5_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="Tema5_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="Tema5_files/libs/bootstrap/bootstrap-33c1396811bb647a58f862e5ff553a70.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="Tema5_files/libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="Tema5_files/libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="Tema5_files/libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="quarto-light">
+
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Genética Molecular</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-full">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Tabla de contenidos</h2>
+   
+  <ul>
+  <li><a href="#mecanismo-de-replicación-del-adn-modelo-procariota" id="toc-mecanismo-de-replicación-del-adn-modelo-procariota" class="nav-link active" data-scroll-target="#mecanismo-de-replicación-del-adn-modelo-procariota">1. Mecanismo de replicación del ADN: modelo procariota</a></li>
+  <li><a href="#etapas-de-la-expresión-génica-modelo-procariota.-el-código-genético" id="toc-etapas-de-la-expresión-génica-modelo-procariota.-el-código-genético" class="nav-link" data-scroll-target="#etapas-de-la-expresión-génica-modelo-procariota.-el-código-genético">2. Etapas de la expresión génica: modelo procariota. El código genético</a></li>
+  <li><a href="#las-mutaciones-su-relación-con-la-replicación-del-adn-la-evolución-y-la-biodiversidad" id="toc-las-mutaciones-su-relación-con-la-replicación-del-adn-la-evolución-y-la-biodiversidad" class="nav-link" data-scroll-target="#las-mutaciones-su-relación-con-la-replicación-del-adn-la-evolución-y-la-biodiversidad">3. Las mutaciones: su relación con la replicación del ADN, la evolución y la biodiversidad</a></li>
+  <li><a href="#regulación-de-la-expresión-génica-su-importancia-en-la-diferenciación-celular" id="toc-regulación-de-la-expresión-génica-su-importancia-en-la-diferenciación-celular" class="nav-link" data-scroll-target="#regulación-de-la-expresión-génica-su-importancia-en-la-diferenciación-celular">4. Regulación de la expresión génica: su importancia en la diferenciación celular</a></li>
+  <li><a href="#los-genomas-procariota-y-eucariota-características-generales-y-diferencias" id="toc-los-genomas-procariota-y-eucariota-características-generales-y-diferencias" class="nav-link" data-scroll-target="#los-genomas-procariota-y-eucariota-características-generales-y-diferencias">5. Los genomas procariota y eucariota: características generales y diferencias</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<section id="mecanismo-de-replicación-del-adn-modelo-procariota" class="level1">
+<h1>1. Mecanismo de replicación del ADN: modelo procariota</h1>
+<p>La replicación es el proceso por el cual una célula copia su ADN antes de dividirse, asegurando que las células hijas reciban la misma información genética. Es un proceso semiconservativo (cada nueva doble hélice conserva una hebra original y otra de nueva síntesis) y bidireccional. En las bacterias (procariotas), ocurre en el citoplasma.</p>
+<p>Las fases de la replicación son tres:</p>
+<div style="text-align:center;">
+<p><a href="_media/image3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="_media/image3.png" class="img-fluid" style="width:5.90556in"></a></p>
+</div>
+<ol type="1">
+<li><p><strong>Iniciación:</strong> El proceso comienza en una secuencia nucleotídica específica del ADN circular llamada origen de replicación (<em>oriC</em>). La enzima helicasa rompe los puentes de hidrógeno que mantienen unida a las dos hebras del ADN, separándolas. Las proteínas SSB (proteínas ligantes de&nbsp;ADN&nbsp;de cadena sencilla) se unen a las hebras separadas impidiendo que se vuelvan a unir. Por último, unas enzimas denominadas topoisomerasas cortan y reconectan las cadenas de ADN para liberar la tensión espacial generada en este proceso.</p></li>
+<li><p><strong>Elongación:</strong> La ARN primasa sintetiza un pequeño fragmento de ARN llamado cebador (o <em>primer</em>), necesario porque la enzima principal que crea la nueva hebra, la ADN polimerasa III, solo puede añadir nucleótidos a una doble cadena preexistente. Esta polimerasa lee la hebra molde en dirección 3' →5' y sintetiza la nueva en dirección 5' →3'. Debido al anti-paralelismo del ADN, una hebra se sintetiza de forma continua (hebra conductora), mientras que la otra (hebra retardada) se sintetiza a trozos llamados fragmentos de Okazaki.</p></li>
+<li><p><strong>Terminación:</strong> La ADN polimerasa I elimina los cebadores de ARN y los rellena con ADN. Finalmente, la ADN ligasa une todos los fragmentos (sellando las “mellas”), creando así una cadena continua.</p></li>
+</ol>
+<p>Para una explicación visual y detallada del proceso, puedes consultar el recurso interactivo de&nbsp;<a href="https://es.khanacademy.org/science/ap-biology/gene-expression-and-regulation/replication/a/molecular-mechanism-of-dna-replication">Khan Academy</a>&nbsp;o consultar los fundamentos teóricos en&nbsp;<a href="https://genotipia.com/replicacion-del-adn/">Genotipia</a></p>
+</section>
+<section id="etapas-de-la-expresión-génica-modelo-procariota.-el-código-genético" class="level1">
+<h1>2. Etapas de la expresión génica: modelo procariota. El código genético</h1>
+<p>La expresión génica es el proceso mediante el cual la información del ADN se convierte en un producto génico final, que usualmente son proteínas, las verdaderas "obreras" de la célula. Esto siempre se ha resumido en el Dogma Central de la Biología Molecular: ADN → ARN → Proteína. En procariotas, como no hay núcleo, ambos procesos ocurren simultáneamente en el citoplasma.</p>
+<p><u>1. Transcripción (ADN a ARN mensajero)</u></p>
+<p>La ARN polimerasa se une a una región del ADN llamada promotor. Abre la doble hélice y comienza a sintetizar una cadena de ARN mensajero (ARNm) complementaria a una de las hebras del ADN. Al llegar a una secuencia de terminación, el ARNm se libera.</p>
+<p><u>2. Traducción (ARNm a Proteína)</u></p>
+<p>Los ribosomas son grandes moléculas (ribonucleoproteínas) que tienen la capacidad de “leer” la secuencia de nucleótidos del ARNm. El ARN de transferencia (ARNt) transporta los aminoácidos específicos al ribosoma, une estos aminoácidos mediante enlaces peptídicos, formando así una cadena polipeptídica o una proteína. Una cadena polipeptídica es una secuencia lineal de aminoácidos, mientras que una proteína es una molécula compleja formada por una o más cadenas polipeptídicas que adoptan una estructura tridimensional y funcional específica<mark>.</mark></p>
+<div style="text-align:center;">
+<p><a href="_media/image4.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="_media/image4.png" class="img-fluid" style="width:6.6277in"></a></p>
+</div>
+<p>El código genético es el "diccionario" que traduce el lenguaje de los nucleótidos del ARN al de los aminoácidos de las proteínas. Se lee en tripletes (grupos de tres bases contiguas llamados codones.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="_media/image2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="tabla del codigo genetico, generada por IA"><img src="_media/image2.jpg" class="img-fluid figure-img" style="width:3.18383in" alt="tabla del codigo genetico, generada por IA"></a></p>
+<figcaption>tabla del codigo genetico, generada por IA</figcaption>
+</figure>
+</div>
+</div>
+<p><strong>Resolución de problemas:</strong> Si os dan una secuencia de ADN (ej. 3'-TAC-CGA-5'), primero debéis transcribirla a ARNm respetando la complementariedad de bases y cambiando la Timina por Uracilo (5'-AUG-GCU-3'). Luego, consultando la tabla del código genético, se busca a qué aminoácido corresponde cada codón (AUG = Metionina, GCU = Alanina).</p>
+</section>
+<section id="las-mutaciones-su-relación-con-la-replicación-del-adn-la-evolución-y-la-biodiversidad" class="level1">
+<h1>3. Las mutaciones: su relación con la replicación del ADN, la evolución y la biodiversidad</h1>
+<p>Una mutación es cualquier alteración permanente en la secuencia de nucleótidos del ADN. Aunque a veces asociamos "mutación" con enfermedad, biológicamente son la base o el motor de la evolución y de la adaptación a la vida. La mayoría de las mutaciones naturales ocurren por errores espontáneos durante la replicación del ADN. La ADN polimerasa a veces se equivoca al insertar un nucleótido. Aunque tiene mecanismos de corrección de errores, no es infalible. Agentes externos (radiación UV, sustancias químicas) también pueden provocar daños en el ADN.</p>
+<p>Los tres tipos de errores en la replicación más frecuentes son:</p>
+<ul>
+<li>Sustituciones de bases. Una transición intercambia una purina por otra (A-G) o pirimidina por pirimidina (T-C), siendo más frecuentes y en general sin efecto. Una transversión cambia una purina por una pirimidina (ej. A-T o A-T), alterando la estructura química del par de bases. Son menos frecuentes pero suelen provocar un efecto en el organismo.</li>
+</ul>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="_media/image1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Mutación genética - Wikipedia, la enciclopedia libre"><img src="_media/image1.png" class="img-fluid figure-img" style="width:2.34167in" alt="Mutación genética - Wikipedia, la enciclopedia libre"></a></p>
+<figcaption>Mutación genética - Wikipedia, la enciclopedia libre</figcaption>
+</figure>
+</div>
+</div>
+<ul>
+<li><p>Las&nbsp;<a href="https://es.wikipedia.org/wiki/Mutaciones_de_cambio_de_fase">mutaciones de cambio de fase</a>&nbsp;o pauta de lectura: se trata de inserciones o deleciones de uno o muy pocos nucleótidos (distintos de tres o sus múltiplos). Dado que el código genético se lee en grupos de tres bases (codones) que determinan un aminoácido específico, al no ser múltiplo de tres, esta mutación altera completamente el orden de lectura&nbsp;</p></li>
+<li><p>Deleciones y duplicaciones grandes: las deleciones y duplicaciones de regiones relativamente grandes también se han detectado con bastante frecuencia en regiones con secuencias repetidas.</p></li>
+</ul>
+<blockquote class="blockquote">
+<div style="text-align:center;">
+<p><a href="_media/image5.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="_media/image5.png" class="img-fluid" style="width:5.4249in"></a></p>
+</div>
+</blockquote>
+<p>Las mutaciones son la fuente primaria de variabilidad genética. Generan nuevos alelos (versiones diferentes de un gen). Si una mutación ocurre en las células germinales (las que forman los gametos), se transmite a la descendencia. Sobre esta variabilidad actúa la <strong>selección natural</strong>: las mutaciones ventajosas ayudarán al organismo a sobrevivir y reproducirse, extendiéndose en la población y generando biodiversidad a lo largo del tiempo. Esta es la base de la Teoría de la evolución por selección natural de Darwin.</p>
+</section>
+<section id="regulación-de-la-expresión-génica-su-importancia-en-la-diferenciación-celular" class="level1">
+<h1>4. Regulación de la expresión génica: su importancia en la diferenciación celular</h1>
+<p>En los organismos pluricelulares, como los animales, generalmente todas las células del cuerpo presentan el mismo contenido en cromosomas y genes de su especie (ADN). Sin embargo, una célula determinada no necesita expresar todos esos genes, o producir todas sus proteínas funcionales durante todo el tiempo. Fabricar proteínas consume mucha energía, por lo que los organismos han desarrollado sistemas para "encender" o "apagar" genes según las necesidades del ambiente. De hecho, una célula es lo que es gracias al conjunto de genes que expresa.</p>
+<p>En el caso de procariotas el sistema más conocido es el <strong>Operón</strong>. Un operón es un grupo de genes que se transcriben juntos bajo el control de un único promotor y una región reguladora (el operador). El ejemplo clásico es el <em>Operón Lac</em> en <em>E. coli</em>: las bacterias solo encienden los genes para digerir la lactosa si hay lactosa en el medio y no hay glucosa disponible. En eucariotas esta regulación puede ser mucho más compleja si consideramos a los organismos pluricelulares.</p>
+<ul>
+<li><strong>Importancia en la diferenciación celular:</strong> Aunque esto es clave en eucariotas pluricelulares, el concepto es fundamental. Todas las células de un cuerpo humano (una neurona y una célula del hígado) tienen exactamente el mismo ADN. Lo que las hace diferentes (diferenciación celular) es la regulación génica: qué genes están encendidos y cuáles están apagados, determinando la función y forma específica de cada tipo celular. Una neurona es una célula que expresa genes de proteínas de neurona, mientras que una célula del hígado, expresa genes que darán lugar a proteínas propias del hígado</li>
+</ul>
+<div style="text-align:center;">
+<p><a href="_media/image6.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="_media/image6.png" class="img-fluid" style="width:5.90625in"></a></p>
+</div>
+</section>
+<section id="los-genomas-procariota-y-eucariota-características-generales-y-diferencias" class="level1">
+<h1>5. Los genomas procariota y eucariota: características generales y diferencias</h1>
+<p>Para entenderlo de forma sencilla, el genoma es el conjunto completo de material genético (ADN) que contiene las instrucciones necesarias para que un organismo se desarrolle, funcione y se reproduzca.</p>
+<p>Dependiendo del tipo de organización celular de los seres vivos, nos encontramos con dos grandes tipos de genomas: el procariota (bacterias y arqueas) y el eucariota (animales, plantas, hongos y protozoos).</p>
+<p><u>1. El Genoma Procariota (El modelo eficiente y compacto)</u></p>
+<p>Las células procariotas son evolutivamente más antiguas y estructuralmente más simples. Su genoma refleja esta sencillez:</p>
+<ul>
+<li><p>Localización: No tienen un núcleo definido. El ADN se encuentra libre en una región del citoplasma llamada nucleoide.</p></li>
+<li><p>Estructura principal: Consiste en una sola molécula de ADN circular y bicatenaria (de dos hebras). Se le suele llamar "el cromosoma bacteriano".</p></li>
+<li><p>ADN extracromosómico (Plásmidos): Además del cromosoma principal, las bacterias suelen tener pequeños anillos de ADN independientes llamados plásmidos. Estos contienen genes "extra" muy útiles, como los que les otorgan resistencia a los antibióticos.</p></li>
+<li><p>Empaquetamiento: El ADN no está asociado a proteínas histonas (está "desnudo" o asociado a proteínas de tipo no histona), y se pliega gracias a un superenrollamiento.</p></li>
+<li><p>Organización: Es sumamente eficiente. Casi todo el ADN codifica para proteínas (apenas hay "paja" o secuencias repetitivas). Los genes se organizan en operones (grupos de genes que se expresan todos juntos).</p></li>
+</ul>
+<p><u>2. El Genoma Eucariota (El modelo complejo y regulado)</u></p>
+<p>Las células eucariotas (las tuyas, las de una planta o un hongo) son más complejas, grandes y compartimentadas. Su genoma es significativamente mayor y más sofisticado:</p>
+<ul>
+<li><p>Localización: El ADN está protegido dentro de un compartimento específico: el núcleo celular. (Nota universitaria: también hay pequeños genomas circulares dentro de las <em>mitocondrias</em> y los <em>cloroplastos</em>, herencia de su pasado bacteriano).</p></li>
+<li><p>Estructura principal: El ADN es lineal y bicatenario, y está fragmentado en múltiples moléculas. Cuando la célula se va a dividir, estas moléculas se condensan formando los cromosomas (el número varía según la especie; los humanos tenemos 46).</p></li>
+<li><p>Empaquetamiento: El ADN eucariota es larguísimo. Para que quepa en el núcleo, se enrolla fuertemente alrededor de unas proteínas llamadas histonas, formando una estructura similar a un collar de perlas llamada cromatina.</p></li>
+<li><p>Organización y "ADN no codificante": A diferencia del procariota, el genoma eucariota contiene una enorme cantidad de ADN que no codifica directamente para proteínas (antiguamente llamado "ADN basura", hoy sabemos que es vital para regular la expresión de los genes). Además, los genes individuales están fragmentados en zonas que se expresan (exones) y zonas intermedias que se eliminan (intrones).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 30%">
+<col style="width: 44%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Característica</strong></th>
+<th style="text-align: left;"><strong>Genoma Procariota</strong></th>
+<th style="text-align: left;"><strong>Genoma Eucariota</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Localización</strong></td>
+<td style="text-align: left;">Citoplasma (Nucleoide)</td>
+<td style="text-align: left;">Núcleo celular (y en mitocondrias/cloroplastos)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Forma del ADN</strong></td>
+<td style="text-align: left;">Circular</td>
+<td style="text-align: left;">Lineal</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Número de moléculas</strong></td>
+<td style="text-align: left;">Única (Un solo cromosoma)</td>
+<td style="text-align: left;">Múltiples cromosomas</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Asociación a Histonas</strong></td>
+<td style="text-align: left;">No (ADN "desnudo")</td>
+<td style="text-align: left;">Sí (Forma la cromatina)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Plásmidos</strong></td>
+<td style="text-align: left;">Frecuentes</td>
+<td style="text-align: left;">Muy raros (salvo en levaduras)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Estructura del gen</strong></td>
+<td style="text-align: left;">Continua (sin intrones)</td>
+<td style="text-align: left;">Fragmentada (Intrones y Exones)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Eficiencia</strong></td>
+<td style="text-align: left;">Muy alta (apenas ADN repetitivo)</td>
+<td style="text-align: left;">Menor densidad génica (mucho ADN regulador)</td>
+</tr>
+</tbody>
+</table></li>
+</ul>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>

@@ -15,4 +15,5 @@ format:
     fontsize: 1.2em
     toc: true
     sidebar: false
+    css: styles.css
 

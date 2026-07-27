@@ -1,3 +1,18 @@
+---
+title: "Las Biomoléculas"
+title-block-banner: true
+lang: es
+execute:
+  echo: false
+format: 
+  html:
+    toc: true
+    page-layout: full
+    format-links: true
+    lightbox: true
+    
+---
+
 # 1.Las Biomoléculas: Fundamentos De La Materia Viva
 
 La materia viva se organiza mediante principios físicos y químicos universales, pero se distingue por una organización molecular de alta complejidad basada en los **bioelementos** (elementos de la materia viva). La materia viva utiliza únicamente una fracción de los elementos que tiene a su disposición en la naturaleza, concentrando algunos de ellos. Así H, C, O y N que constituyen los **bioelementos primarios**, representan una baja proporción de la materia inerte, pero forman el 96% de la masa total de la materia viva. Esto es debido:

@@ -1,0 +1,76 @@
+---
+title: "El Estudio de la Célula y su Visualización"
+title-block-banner: true
+lang: es
+execute:
+  echo: false
+format: 
+  html:
+    toc: true
+    page-layout: full
+    format-links: true
+    lightbox: true
+    
+---
+
+# 1. La Teoría Celular e Implicaciones Biológicas
+
+La teoría celular es uno de los pilares unificadores de la ciencia moderna. Se puede resumir en tres postulados fundamentales:
+
+- La célula es la **UNIDAD ESTRUCTURAL** de los seres vivos: Todos los seres vivos están formados por una o más células.
+
+- La célula es la **UNIDAD FUNCIONAL** de todos los seres vivos: En la célula ocurren todas las reacciones metabólicas vitales.
+
+- La célula es **LA UNIDAD DE ORIGEN O UNIDAD REPRODUCTIVA** de todos los seres vivos: Toda célula proviene de otra célula preexistente mediante la división celular.
+
+Aunque son varios los científicos que aportaron las bases de esta teoría, la [teoría celular](https://es.wikipedia.org/wiki/Teor%C3%ADa_celular) se propone oficialmente a mitad del siglo XVII, en varias etapas. Inicialmente se propusieron los dos primeros postulados por dos científicos  [Matthias Schleiden](https://es.wikipedia.org/wiki/Matthias_Jakob_Schleiden) (1838) y [Theodor Schwann](https://es.wikipedia.org/wiki/Theodor_Schwann) (1839), añadiéndose el tercer postulado (el reproductivo) algunos años más tarde, gracias a  [Rudolf Virchow](https://es.wikipedia.org/wiki/Rudolf_Virchow) (1855).
+
+Esta teoría impuso un cambio en el pensamiento científico de la época, y gracias a ello, la ciencia dejo de creer en ideas hasta entonces aceptada como el [preformacionismo](https://es.wikipedia.org/wiki/Preformacionismo) o la [generación espontánea](https://es.wikipedia.org/wiki/Generaci%C3%B3n_espont%C3%A1nea). Además, Esta teoría demuestra el **origen común de la vida**. Da igual si estudiamos un árbol de Sierra Nevada o una célula del ojo humano; a nivel celular, las reglas del juego son prácticamente las mismas a nivel celular.
+
+# 2. Microscopía Óptica y Electrónica: imágenes, poder de resolución y técnicas de preparación de muestras
+
+Para estudiar la célula, lo primero es poder observarla. Sin embargo, el ojo humano usualmente no puede hacerlo, ya que presenta un límite de resolución de aproximadamente 0.1 mm (100 µm). Como la mayoría de las células miden entre 10 y 50 µm (y los orgánulos mucho menos), dependemos por completo de los microscopios para poder estudiarlas. Vamos a explicar esto.
+
+## Límite de Resolución y Poder de Resolución
+
+Existe un error común al pensar que el mejor microscopio es el que más \"aumenta\". Lo importante no es el aumento (hacer la imagen más grande), sino el **poder de resolución**, dicho de otra forma, la **capacidad de ver una imagen aumentada de forma nítida**.
+
+Se define el **Poder de resolución ($P$):** Capacidad de un sistema óptico para separar y distinguir dos puntos que están muy próximos. A mayor poder de resolución, mayor detalle. Se define igualmente como la inversa del límite de resolución ($P=1/L$).
+
+**Límite de resolución:** Es la inversa del poder de resolución ($L=1/P$). Es la distancia mínima a la que deben estar dos puntos para que un sistema óptico (ojo, microscopio, lupa, cámara...) los perciba como puntos separados.
+
+Matemáticamente se define por la fórmula de Abbe: $L=(0.61\times \lambda)/AN$, donde $\lambda$ es la longitud de onda de la radiación utilizada (p. ejemplo, la luz) y $AN$ es la apertura numérica de la lente que observa. Si nos fijamos en esa fórmula, y entendemos que $L$ debe ser pequeñito, entenderemos que cuanto menor sea la longitud de onda ($\lambda$), menor será el límite $L$ y por tanto, **mayor será el detalle** que podremos visualizar. Entendiendo eso podremos comprender porque los electrones de los microscopios electrónicos (con una $\lambda$ muchísimo menor que los fotones de la luz) permiten visionar imágenes a mayor nivel de resolución que el clásico microscopio óptico (que utiliza los fotones de la luz visible).
+
+## Tipos de Microscopía
+
+### A. Microscopía Óptica (MO)
+
+- **Fundamento:** Utiliza luz visible (fotones) y lentes de vidrio.
+
+- **Límite de resolución:** Aproximadamente $0.2\mu\text{m}$ ($200\text{~nm}$).
+
+- **Imágenes:** Permite ver células vivas o muertas, al natural o por medio de contrastes o tinciones artificiales. Muestra tejidos, células enteras y orgánulos grandes (núcleo, mitocondrias, cloroplastos), pero no su estructura interna detallada (ultraestructura).
+
+### B. Microscopía Electrónica (ME)
+
+Sustituye los fotones de la luz por un **haz de electrones** enfocado por lentes electromagnéticas. Por ello, el límite de resolución llega hasta los $0.2\text{~nm}$ (¡1000 veces más potente que el MO!), lo que nos permite visualizar a mucho mayor poder de resolución. Existen dos variantes principales de microscopio electrónico:
+
+- **Microscopio de transmisión (MET):** Los electrones atraviesan la muestra. Ofrece imágenes en **2D y blanco y negro** de la ultraestructura interna celular (membranas, ribosomas, crestas mitocondriales, membranas...).
+
+- **Microscopio de Barrido (MEB):** Los electrones rebotan sobre la superficie de la muestra previamente tratada. Ofrece imágenes espectaculares en **3D y blanco y negro** de la topografía celular o superficie de células o tejidos.
+
+## Técnicas de Preparación de Muestras
+
+Para observar una célula o un grupo de estas, usualmente debemos tratar previamente nuestra muestra biológica. Al conjunto de procedimientos al que se somete la muestra se le conoce como la [técnica histológica](https://es.wikipedia.org/wiki/T%C3%A9cnica_histol%C3%B3gica). La técnica histológica se compone usualmente de las siguientes etapas:
+
+1.  **Disección:** En esta etapa se disecciona un pequeño trozo del material biológico a visualizar (trozo de hígado, de hoja, de hueso...).
+
+2.  **Fijación:** Se introduce la muestra diseccionada en una solución química (fijador químico) o se somete a un fijador físico (calor o frio). De esta manera se detiene el metabolismo celular y se interrumpen los procesos de degradación derivados de la disección de la muestra, manteniendo así las estructuras celulares lo más parecida a como estaba cuando estaba viva.
+
+3.  **Inclusión:** La muestra fijada es blanda, y usualmente necesitamos que sea extremadamente fina para que pueda ser atravesada por los fotones o los electrones. Para ello, la infiltramos e incluimos en un soporte físico como la **parafina líquida o** como algunas **resinas**. Al solidificar este tipo de compuestos, da lugar a un bloque duro que contiene nuestra muestra y que ya es más fácil de cortar.
+
+4.  **Corte:** Se obtienen laminas o "lonchas" del bloque. Estas secciones pueden ser finas (3-15 µm$\text{ }$ en microscopía óptica) o ultrafinas (de $5$ a 10 nm en microscopía electrónica). El aparato utilizado para el corte se llama microtomo (M.O) o ultramicrotomo (M.E).
+
+5.  **Tinción:** Por último hay que contrastar o colorear nuestra muestra de forma diferencial (unas partes sí y otras no) ya que las láminas suelen ser transparentes. Hay muchos tipos de agentes de coloración y contraste. Uno de los más comunes en M.O. es la **Hematoxilina** (tiñe el núcleo/ácidos de azul) y la **Eosina** (tiñe el citoplasma de rosa). Lo metales pesados son usados como agentes de constraste en M.E.
+
+6.  **Montaje:** la muestra ya fijada se deposita y prepara sobre una superficie (portaobjetos de cristal o una rejilla metálica) para poder ser depositada en el microscopio y ser visualizada.

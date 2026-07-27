@@ -34,7 +34,7 @@ Implica el ciclo de la vida de una célula durante el cual no se da división ce
       <td><strong>G1</strong></td>
       <td>Las células crecen de tamaño y realiza sus funciones metabólicas normales.</td>
       <td rowspan="4" style="text-align: center; vertical-align: middle;">
-        <img src="_media/image1.png" alt="Esquema representativo de la interfase" style="width: 1.9375in; display: block; margin: 0 auto;">
+        <img src="media/image1.png" alt="Esquema representativo de la interfase" style="width: 1.9375in; display: block; margin: 0 auto;">
       </td>
     </tr>
     <tr>
@@ -67,10 +67,10 @@ En esta parte del ciclo ocurre la división del núcleo o mitosis y la citocines
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image2.png" alt="Profase" style="width: 1.3518307086614174in; display: block; margin: 0 auto;"></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image3.png" alt="Metafase" style="width: 1.326641513560805in; display: block; margin: 0 auto;"></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image4.png" alt="Anafase" style="width: 1.309847987751531in; display: block; margin: 0 auto;"></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image5.png" alt="Telofase" style="width: 1.3014523184601925in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image2.png" alt="Profase" style="width: 1.3518307086614174in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image3.png" alt="Metafase" style="width: 1.326641513560805in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image4.png" alt="Anafase" style="width: 1.309847987751531in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image5.png" alt="Telofase" style="width: 1.3014523184601925in; display: block; margin: 0 auto;"></td>
     </tr>
     <tr>
       <td style="text-align: left;">1. Los cromosomas se condensan y se hacen visibles</td>
@@ -91,10 +91,10 @@ En esta parte del ciclo ocurre la división del núcleo o mitosis y la citocines
       <td style="text-align: left;">3. Comienza a formarse las nuevas envolturas nucleares</td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image6.png" alt="Profase tardía" style="width: 1.3333333333333333in; display: block; margin: 0 auto;"></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image7.png" alt="Metafase tardía" style="width: 1.3333333333333333in; display: block; margin: 0 auto;"></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image8.png" alt="Anafase tardía" style="width: 1.3402777777777777in; display: block; margin: 0 auto;"></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="_media/image9.png" alt="Telofase tardía" style="width: 1.3333333333333333in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image6.png" alt="Profase tardía" style="width: 1.3333333333333333in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image7.png" alt="Metafase tardía" style="width: 1.3333333333333333in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image8.png" alt="Anafase tardía" style="width: 1.3402777777777777in; display: block; margin: 0 auto;"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="media/image9.png" alt="Telofase tardía" style="width: 1.3333333333333333in; display: block; margin: 0 auto;"></td>
     </tr>
   </tbody>
 </table>
@@ -114,7 +114,7 @@ En la meiosis, contrariamente a la mitosis, las células hijas **serán genétic
 La meiosis se lleva a cabo en dos divisiones nucleares y citoplasmáticas consecutivas, llamadas primera y segunda división meiótica o simplemente meiosis I y meiosis II. Ambas comprenden profase, metafase, anafase y telofase. La meiosis I se describe en la imagen inferior
 
 ::: {style="text-align:center;"}
-![](_media/image10.png){width="6.256698381452319in"}
+![](media/image10.png){width="6.256698381452319in"}
 :::
 
 **Particularidades de la Profase I** de la primera división meiótica.
@@ -138,7 +138,7 @@ En este punto la meiosis puede sufrir una pausa, como ocurre en el caso de la fo
 En la **profase II,** la división celular es similar a la de la mitosis, donde lo que se separara durante la anafase son las crómatidas de cada cromosoma. Además, en la profase ya partimos de cromosomas condensados. Se explica en la imagen inferior.
 
 ::: {style="text-align:center;"}
-![](_media/image11.png){width="6.360565398075241in"}
+![](media/image11.png){width="6.360565398075241in"}
 :::
 
 # 3. Sentido biológico de la meiosis

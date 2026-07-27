@@ -36,7 +36,7 @@ Antes de que el sistema inmunitario mueva un solo \"soldado\", el cuerpo cuenta 
 - **Barreras Biológicas:** La **microbiota normal** (bacterias beneficiosas de nuestra piel e intestino) que compiten por el espacio y los nutrientes, impidiendo que los patógenos se asienten.
 
 ::: {style="text-align:center;"}
-![Las barreras externas del sistema inmune. Imagen obtenida por IA (Gemini)](_media/image1.png){width="7.46652668416448in" #fig-barreras}
+![Las barreras externas del sistema inmune. Imagen obtenida por IA (Gemini)](media/image1.png){width="7.46652668416448in" #fig-barreras}
 :::
 
 # 3. Inmunidad Innata (inespecífica) e Inmunidad Específica (Adaptativa o Adquirida)
@@ -80,7 +80,7 @@ Dentro de la inmunidad específica o adquirida, los encargados de la defensa son
   - *Aglutinación:* Los patógenos opsonizados tienden a aglutinarse, facilitando de esta manera su reconocimiento y eliminación por los diferentes componentes del sistema inmunitario
 
 ::: {style="text-align:center;"}
-![Acción de los anticuerpos sobre los patógenos. Imagen obtenida por IA (Gemini)](_media/image2.png){width="7.622035214348206in" #fig-anticuerpos}
+![Acción de los anticuerpos sobre los patógenos. Imagen obtenida por IA (Gemini)](media/image2.png){width="7.622035214348206in" #fig-anticuerpos}
 :::
 
 ## B. Inmunidad Celular (Dirigida contra patógenos intracelulares o células defectuosas)
@@ -96,7 +96,7 @@ Dentro de la inmunidad específica o adquirida, los encargados de la defensa son
   - *Linfocitos T Colaboradores / Helpers (T~H~):* Son los \"generales\" del sistema inmunitario; reconocen las células alteradas por reconocimiento de móleculas expuestas en las mismas y coordinan la respuesta liberando señales químicas (citocinas y quimioquinas) que activan tanto a los linfocitos B como al resto de las células del sistema inmunitario, dirigiendo toda la artillería al sitio donde se ha producido la infección (@fig-linfocitos).
 
 ::: {style="text-align:center;"}
-![Los linfocitos T~H\ ~* "ordenan" a los linfocitos T*~C~* para que interaccionen con el patógeno y los elimine. Imagen obtenida por IA (Gemini)](_media/image3.png){width="7.875166229221347in" #fig-linfocitos}
+![Los linfocitos T~H\ ~* "ordenan" a los linfocitos T*~C~* para que interaccionen con el patógeno y los elimine. Imagen obtenida por IA (Gemini)](media/image3.png){width="7.875166229221347in" #fig-linfocitos}
 :::
 
 # 5. Clasificación de la Inmunidad Adquirida

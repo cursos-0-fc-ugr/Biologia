@@ -20,7 +20,7 @@ La replicación es el proceso por el cual una célula copia su ADN antes de divi
 Las fases de la replicación son tres:
 
 ::: {style="text-align:center;"}
-![](_media/image3.png){width="5.905555555555556in"}
+![](media/image3.png){width="5.905555555555556in"}
 :::
 
 1. **Iniciación:** El proceso comienza en una secuencia nucleotídica específica del ADN circular llamada origen de replicación (*oriC*). La enzima helicasa rompe los puentes de hidrógeno que mantienen unida a las dos hebras del ADN, separándolas. Las proteínas SSB (proteínas ligantes de ADN de cadena sencilla) se unen a las hebras separadas impidiendo que se vuelvan a unir. Por último, unas enzimas denominadas topoisomerasas cortan y reconectan las cadenas de ADN para liberar la tensión espacial generada en este proceso.
@@ -45,13 +45,13 @@ La ARN polimerasa se une a una región del ADN llamada promotor. Abre la doble h
 Los ribosomas son grandes moléculas (ribonucleoproteínas) que tienen la capacidad de "leer" la secuencia de nucleótidos del ARNm. El ARN de transferencia (ARNt) transporta los aminoácidos específicos al ribosoma, une estos aminoácidos mediante enlaces peptídicos, formando así una cadena polipeptídica o una proteína. Una cadena polipeptídica es una secuencia lineal de aminoácidos, mientras que una proteína es una molécula compleja formada por una o más cadenas polipeptídicas que adoptan una estructura tridimensional y funcional específica[.]{.mark}
 
 ::: {style="text-align:center;"}
-![](_media/image4.png){width="6.627699037620298in"}
+![](media/image4.png){width="6.627699037620298in"}
 :::
 
 El código genético es el \"diccionario\" que traduce el lenguaje de los nucleótidos del ARN al de los aminoácidos de las proteínas. Se lee en tripletes (grupos de tres bases contiguas llamados codones.
 
 ::: {style="text-align:center;"}
-![tabla del codigo genetico, generada por IA](_media/image2.jpg){width="3.183827646544182in"}
+![tabla del codigo genetico, generada por IA](media/image2.jpg){width="3.183827646544182in"}
 :::
 
 **Resolución de problemas:** Si os dan una secuencia de ADN (ej. 3\'-TAC-CGA-5\'), primero debéis transcribirla a ARNm respetando la complementariedad de bases y cambiando la Timina por Uracilo (5\'-AUG-GCU-3\'). Luego, consultando la tabla del código genético, se busca a qué aminoácido corresponde cada codón (AUG = Metionina, GCU = Alanina).
@@ -65,7 +65,7 @@ Los tres tipos de errores en la replicación más frecuentes son:
 - Sustituciones de bases. Una transición intercambia una purina por otra (A-G) o pirimidina por pirimidina (T-C), siendo más frecuentes y en general sin efecto. Una transversión cambia una purina por una pirimidina (ej. A-T o A-T), alterando la estructura química del par de bases. Son menos frecuentes pero suelen provocar un efecto en el organismo.
 
 ::: {style="text-align:center;"}
-![Mutación genética - Wikipedia, la enciclopedia libre](_media/image1.png){width="2.341666666666667in"} 
+![Mutación genética - Wikipedia, la enciclopedia libre](media/image1.png){width="2.341666666666667in"} 
 :::
 
 - Las [mutaciones de cambio de fase](https://es.wikipedia.org/wiki/Mutaciones_de_cambio_de_fase) o pauta de lectura: se trata de inserciones o deleciones de uno o muy pocos nucleótidos (distintos de tres o sus múltiplos). Dado que el código genético se lee en grupos de tres bases (codones) que determinan un aminoácido específico, al no ser múltiplo de tres, esta mutación altera completamente el orden de lectura 
@@ -73,7 +73,7 @@ Los tres tipos de errores en la replicación más frecuentes son:
 - Deleciones y duplicaciones grandes: las deleciones y duplicaciones de regiones relativamente grandes también se han detectado con bastante frecuencia en regiones con secuencias repetidas.
 
 > ::: {style="text-align:center;"}
-![](_media/image5.png){width="5.424896106736658in"}
+![](media/image5.png){width="5.424896106736658in"}
 :::
 
 Las mutaciones son la fuente primaria de variabilidad genética. Generan nuevos alelos (versiones diferentes de un gen). Si una mutación ocurre en las células germinales (las que forman los gametos), se transmite a la descendencia. Sobre esta variabilidad actúa la **selección natural**: las mutaciones ventajosas ayudarán al organismo a sobrevivir y reproducirse, extendiéndose en la población y generando biodiversidad a lo largo del tiempo. Esta es la base de la Teoría de la evolución por selección natural de Darwin.
@@ -87,7 +87,7 @@ En el caso de procariotas el sistema más conocido es el **Operón**. Un operón
 - **Importancia en la diferenciación celular:** Aunque esto es clave en eucariotas pluricelulares, el concepto es fundamental. Todas las células de un cuerpo humano (una neurona y una célula del hígado) tienen exactamente el mismo ADN. Lo que las hace diferentes (diferenciación celular) es la regulación génica: qué genes están encendidos y cuáles están apagados, determinando la función y forma específica de cada tipo celular. Una neurona es una célula que expresa genes de proteínas de neurona, mientras que una célula del hígado, expresa genes que darán lugar a proteínas propias del hígado
 
 ::: {style="text-align:center;"}
-![](_media/image6.png){width="5.90625in"}
+![](media/image6.png){width="5.90625in"}
 :::
 
 # 5. Los genomas procariota y eucariota: características generales y diferencias

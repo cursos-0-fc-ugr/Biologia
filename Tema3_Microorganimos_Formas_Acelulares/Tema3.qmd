@@ -18,7 +18,7 @@ format:
 Las eubacterias y las arqueobacterias son microorganismos procariotas unicelulares sin núcleo definido, y sin orgánulos membranosos internos típicos. Debido a su diminuto tamaño, estos seres vivos solo pueden ser observados mediante el uso de microscopios. Aunque en el pasado se clasificaban juntos, hoy se reconoce que pertenecen a dominios evolutivos diferentes (Bacteria y Archaea), siendo las arqueas una rama fundamental del árbol de la vida que, a nivel molecular, guarda más semejanzas con los organismos eucariotas que con las propias bacterias. Ambos grupos desempeñan papeles esenciales en la biosfera, siendo capaces de colonizar desde ambientes cotidianos hasta los entornos más extremos del planeta.
 
 ::: {style="text-align:center;"}
-![](_media/image1.png){width="5.002981189851268in"}
+![](media/image1.png){width="5.002981189851268in"}
 :::
 
 Aunque ambos grupos son organismos procariotas unicelulares sin núcleo definido, presentan diferencias bioquímicas y genéticas fundamentales:
@@ -72,7 +72,7 @@ Por otro lado, existen microorganismos **autótrofos** que utilizan compuestos i
 - **Quimiosintéticos:** Obtienen energía de la oxidación de compuestos inorgánicos.
 
 ::: {style="text-align:center;"}
-![](_media/image2.png){width="5.8342125984251965in"}
+![](media/image2.png){width="5.8342125984251965in"}
 :::
 
 ## Importancia Ecológica: ciclos biogeoquímicos y simbiosis
@@ -96,7 +96,7 @@ Este ciclo depende casi por completo de la actividad bacteriana, ya que las plan
 3.  **Desnitrificación:** Bacterias como *Pseudomonas* cierran el ciclo devolviendo el nitrógeno a la atmósfera mediante respiración anaerobia.
 
 ::: {style="text-align:center;"}
-![](_media/image3.png){width="5.905555555555556in"}
+![](media/image3.png){width="5.905555555555556in"}
 :::
 
 ## Simbiosis y Aplicaciones Ambientales
@@ -122,7 +122,7 @@ Los microorganismos utilizan distintas vías para pasar de un huésped a otro, p
 - Por vectores: Animales que transportan el patógeno sin enfermar (ej. el mosquito que transmite la malaria).
 
 ::: {style="text-align:center;"}
-![](_media/image4.png){width="5.921739938757655in"}
+![](media/image4.png){width="5.921739938757655in"}
 :::
 
 Los principales agentes infecciosos son las bacterias, los virus, los protozoos y los hongos. Curiosamente, a diferencia de las bacterias, las arqueas se consideran importantes para la vida y, hasta la fecha, no se conoce ninguna arquea que sea patógena para el ser humano.
@@ -148,7 +148,7 @@ Para estudiar los microorganismos, los científicos necesitan trabajar con culti
 La esterilización es el tratamiento de un material con un agente físico o químico que elimina TODO tipo de actividad biológica en él. Se trata de un término absoluto porque no admite grados intermedios: algo está estéril o no lo está. Una vez estéril, el material seguirá estéril indefinidamente mientras esté almacenado en un compartimiento estanco, sellado y libre del contacto con microorganismos del ambiente exterior.
 
 ::: {style="text-align:center;"}
-![](_media/image5.png){width="5.905555555555556in"}
+![](media/image5.png){width="5.905555555555556in"}
 :::
 
 Los [agentes físicos]{.underline} más empleados son:
@@ -170,7 +170,7 @@ Los medios de cultivo se pueden clasifican según su consistencia en: sólidos (
 La siembra es la incorporación de una muestra o inóculo bacteriano a un medio de cultivo, siempre en condiciones de esterilidad. Existen distintas técnicas de siembra según el tipo de medio del que partamos y el tipo de medio en el que sembremos.
 
 ::: {style="text-align:center;"}
-![](_media/image7.png){width="5.175120297462817in"}
+![](media/image7.png){width="5.175120297462817in"}
 :::
 
 El crecimiento en cultivos cerrados tiene cuatro fases: **latencia**, **exponencial**, **estacionaria** y **muerte**:
@@ -184,7 +184,7 @@ El crecimiento en cultivos cerrados tiene cuatro fases: **latencia**, **exponenc
 4.  **Fase de muerte:** Al acabarse los recursos y envenenarse el medio, el número de bacterias cae rápidamente.
 
 ::: {style="text-align:center;"}
-![](_media/image8.png){width="4.121738845144357in"}
+![](media/image8.png){width="4.121738845144357in"}
 :::
 
 # 5. Transferencia genética horizontal y resistencia a antibióticos
@@ -212,7 +212,7 @@ La resistencia puede ser natural (propia de la especie) o adquirida (por mutaci�
 Por lo tanto, la transferencia de plásmidos con genes de resistencia entre bacterias es un problema grave de salud pública, ya que permite que las cepas patógenas sobrevivan a los tratamientos médicos. Mediante este proceso, las poblaciones bacterianas pueden adquirir y difundir genes de resistencia con gran rapidez, transformando la dinámica de las infecciones y planteando un desafío importante para la salud pública y las ciencias ambientales.
 
 ::: {style="text-align:center;"}
-![](_media/image9.png){width="5.165217629046369in"}
+![](media/image9.png){width="5.165217629046369in"}
 :::
 
 Los principales mecanismos que usan las bacterias para resistir a los antibióticos son:
@@ -226,7 +226,7 @@ Los principales mecanismos que usan las bacterias para resistir a los antibióti
 4.  **Bombas de eflujo:** Proteínas de membrana que expulsan activamente el antibiótico hacia el exterior de la bacteria.
 
 ::: {style="text-align:center;"}
-![](_media/image10.png){width="5.1393897637795276in"}
+![](media/image10.png){width="5.1393897637795276in"}
 :::
 
 # 6. Las formas acelulares: virus, viroides y priones
@@ -244,7 +244,7 @@ a)  **Los Virus: estrategas de la infección**
   - [Ciclo Lisogénico]{.underline}: El material genético del virus se integra en el genoma de la célula (en este estado se denomina profago), permaneciendo de forma latente sin destruirla inmediatamente. El virus se replica junto con la célula hasta que un estímulo externo activa su paso al ciclo lítico.
 
 ::: {style="text-align:center;"}
-![](_media/image11.png){width="5.905555555555556in"}
+![](media/image11.png){width="5.905555555555556in"}
 :::
 
 b)  **Los Viroides: simplicidad genética**

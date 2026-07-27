@@ -30,7 +30,7 @@ Las biomoléculas se pueden clasificar en Biomoléculas Orgánicas e Inorgánica
 - **Orgánicas:** Basadas en el **carbono**, cuya configuración tetraédrica le permite formar cadenas y anillos estables y variados (glúcidos, lípidos, proteínas y ácidos nucleicos).
 
 ::: {style="text-align:center;"}
-![](_media/image1.png){width="6.270138888888889in"}
+![](media/image1.png){width="6.270138888888889in"}
 :::
 
 # 2. El Agua y las Sales Minerales
@@ -52,7 +52,7 @@ El Agua se comporta como un dipolo (carga parcial negativa en el oxígeno y posi
 - **Acción disolvente:** El agua es el disolvente universal. Esta propiedad, tal vez es la más importante para la vida. La polaridad de las moléculas de agua es la responsable de su capacidad disolvente.
 
 ::: {style="text-align:center;"}
-![](_media/image2.png){width="6.270138888888889in"}
+![](media/image2.png){width="6.270138888888889in"}
 :::
 
 ## Sales Minerales
@@ -86,7 +86,7 @@ Los monosacáridos presentan isomería**,** los **isómeros** son **c**ompuestos
 `` **Anómeros:** Al ciclarse, aparece un nuevo carbono asimétrico (anomérico), dando lugar a las formas **alfa** (OH hacia abajo) y **beta** (OH hacia arriba).``
 
 ::: {style="text-align:center;"}
-![](_media/image3.png){width="6.270138888888889in"}
+![](media/image3.png){width="6.270138888888889in"}
 :::
 
 ## Disacáridos y Polisacáridos
@@ -96,7 +96,7 @@ Los monosacáridos presentan isomería**,** los **isómeros** son **c**ompuestos
 - **Polisacáridos:** Los polisacáridos están formados por la unión de muchos monosacáridos (puede variar entre 11 y varios miles), mediante enlace O-glucosídico. Existen polisacáridos con funciones de reserva energética como **Almidón** y **Glucógeno** y otros con funciones estructurales o de sostén como **Celulosa** y **Quitina**.
 
 ::: {style="text-align:center;"}
-![](_media/image5.svg){width="6.270138888888889in"}
+![](media/image5.svg){width="6.270138888888889in"}
 :::
 
 # 4. Lípidos: Saponificables y No Saponificables
@@ -116,7 +116,7 @@ Algunos lípidos poseen una intensa actividad biológica, entre ellos están alg
 En general los lípidos se dividen en saponificables y no saponificables, según si contienen ácidos grasos o no. Los ácidos grasos pueden ser saturados o insaturados, las insaturaciones provocan torsiones en las moléculas lo que influye en sus propiedades. Así, los saturados son grasas sólidas a temperatura ambiente como la mantequilla, mientras que los insaturados son líquidos como el aceite de oliva).
 
 ::: {style="text-align:center;"}
-![](_media/image6.png){width="6.270138888888889in"}
+![](media/image6.png){width="6.270138888888889in"}
 :::
 
 - **Saponificables (contienen ácidos grasos):**
@@ -126,7 +126,7 @@ En general los lípidos se dividen en saponificables y no saponificables, según
   - **Fosfolípidos:** Moléculas **anfipáticas** (cabeza polar y colas apolares de ácidos grasos) que forman las membranas celulares.
 
 ::: {style="text-align:center;"}
-![](_media/image7.png){width="6.270138888888889in"}
+![](media/image7.png){width="6.270138888888889in"}
 :::
 
 - **No Saponificables (sin ácidos grasos):**
@@ -142,7 +142,7 @@ En general los lípidos se dividen en saponificables y no saponificables, según
 Son cadenas de **aminoácidos** unidos por enlaces peptídicos. Los aminoácidos están formados por un átomo de C (Cα) unido a un grupo amino (-NH2) y a otro carboxilo (-COOH), a un átomo de hidrógeno (-H) y a un grupo químico variable al que se denomina radical (-R). Dependiendo del grupo R, los aminoácidos tienen diferentes propiedades: hidrófilos, aromáticos...
 
 ::: {style="text-align:center;"}
-![](_media/image8.png){width="6.270138888888889in"}
+![](media/image8.png){width="6.270138888888889in"}
 :::
 
 En la naturaleza existen unos 80 aminoácidos diferentes, pero de todos ellos sólo unos 20 forman parte de las proteínas.
@@ -166,7 +166,7 @@ La conformación tridimensional de las proteínas es fundamental para su activid
 La pérdida de la conformación tridimensional de la proteína se llama **desnaturalización** y conlleva la pérdida de función de la proteína.
 
 ::: {style="text-align:center;"}
-![](_media/image9.png){width="6.270138888888889in"}
+![](media/image9.png){width="6.270138888888889in"}
 :::
 
 ## Funciones de las proteinas 
@@ -196,13 +196,13 @@ Las enzimas alteran las velocidades de reacción pero no los equilibrios químic
 En una reacción enzimática:
 
 ::: {style="text-align:center;"}
-![](_media/image10.png){width="5.8241557305336835in"}
+![](media/image10.png){width="5.8241557305336835in"}
 ::: 
 
 donde E, S y P representan enzima, sustrato y producto, respectivamente. ES y EP son complejos de la enzima con el sustrato y con el producto, respectivamente.
 
 ::: {style="text-align:center;"}
-![](_media/image10.png){width="5.740248250218722in"}
+![](media/image10.png){width="5.740248250218722in"}
 :::
 
 Muchas enzimas necesitan componentes no proteicos para ser activas: **cofactores** (iones como Zn^2+^) o **coenzimas** (vitaminas).
@@ -214,7 +214,7 @@ Muchas enzimas necesitan componentes no proteicos para ser activas: **cofactores
 Existen dos tipos de ácidos nucleicos el ADN y el ARN. Son las macromoléculas encargadas de **almacenar y transmitir la información genética**. Están formados por cadenas de **nucleótidos**.
 
 ::: {style="text-align:center;"}
-![](_media/image11.png){width="5.45365157480315in"}
+![](media/image11.png){width="5.45365157480315in"}
 :::
 
 **Estructura de los nucleótidos:**
@@ -236,7 +236,7 @@ Los nucleótidos, además de ser los monómeros constituyentes de las cadenas de
 El ADN es bicatenario (doble hélice antiparalela), muy estable, y contiene la información genética, se encuentra en el núcleo celular. La doble cadena se forma por la unión entre 2 cadenas de nucleótidos por sus bases nitrogenadas se une una base púrica y una pirimidínica A-T y G-C.
 
 ::: {style="text-align:center;"}
-![](_media/image12.png){width="5.520958005249343in"}
+![](media/image12.png){width="5.520958005249343in"}
 :::
 
 El ARN es monocatenario (una sola cadena), menos estable y actúa como intermediario para sintetizar proteínas a partir de la información genética recogida en el ADN. Existen tres tipos principales:
@@ -248,7 +248,7 @@ El ARN es monocatenario (una sola cadena), menos estable y actúa como intermedi
 - ARNt, ARN transferente, transporta los aminoácidos al ribosoma para la síntesis de proteínas mediante la **traducción**.
 
 ::: {style="text-align:center;"}
-![](_media/image13.png){width="5.441674321959755in"}
+![](media/image13.png){width="5.441674321959755in"}
 :::
 
 # 7. Salud y Estilos de Vida Saludables

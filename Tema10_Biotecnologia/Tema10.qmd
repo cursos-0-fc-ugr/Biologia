@@ -30,7 +30,7 @@ La biotecnología no es una disciplina aislada, necesita de conocimientos de bio
 La ingeniería genética es el conjunto de técnicas que permiten manipular el ADN de un organismo para modificarlo o transferirlo a otro. Estas son las herramientas fundamentales:
 
 ::: {style="text-align:center;"}
-![](_media/image1.png){width="6.5in"}
+![](media/image1.png){width="6.5in"}
 :::
 
 ## A. Enzimas de Restricción e Ingeniería de Corte
@@ -52,7 +52,7 @@ Es una técnica de **fotocopiado molecular**.
 - **Uso:** Fundamental en estudios de biodiversidad, medicina forense y detección de patógenos.
 
 ::: {style="text-align:center;"}
-![](_media/image2.png){width="6.010416666666667in"}
+![](media/image2.png){width="6.010416666666667in"}
 :::
 
 ## C. Clonación Molecular
@@ -66,7 +66,7 @@ No hablamos de \"Dolly\", sino de clonar genes.
 Este proceso se basa en el uso de **vectores de clonación**, que normalmente son plásmidos (pequeños anillos de ADN circular que las bacterias tienen fuera de su cromosoma principal).
 
 ::: {style="text-align:center;"}
-![](_media/image3.png){width="4.694436789151356in"}
+![](media/image3.png){width="4.694436789151356in"}
 :::
 
 ## D. CRISPR-Cas9
@@ -76,7 +76,7 @@ Es la tecnología más revolucionaria (Premio Nobel 2020).
 - **Concepto:** Un sistema de \"busca y edita o reemplaza\". Permite dirigir unas tijeras moleculares a un punto exacto del genoma con una precisión quirúrgica, como consecuencia se puede silenciar o modificar genes.
 
 ::: {style="text-align:center;"}
-![](_media/image4.png){width="5.425293088363954in"}
+![](media/image4.png){width="5.425293088363954in"}
 :::
 
 
@@ -97,7 +97,7 @@ Las técnicas de ingeniería genética se pueden utilizar en transformación gen
 6.  **Expresión:** La bacteria \"lee\" el gen humano y empieza a fabricar la proteína (insulina), que luego se purifica para uso médico.
 
 ::: {style="text-align:center;"}
-![](_media/image5.png){width="6.5in"}
+![](media/image5.png){width="6.5in"}
 :::
 
 # 3. El papel de los Microorganismos
@@ -111,7 +111,7 @@ Aunque en Biotecnología se pueden utilizar todo tipos de organismos, las bacter
 3.  **Versatilidad metabólica:** Pueden degradar contaminantes o sintetizar fármacos.  
 
 ::: {style="text-align:center;"}
-![](_media/image6.png){width="5.903421916010498in"}
+![](media/image6.png){width="5.903421916010498in"}
 :::
 
 # 4. Aplicaciones y Repercusiones
@@ -131,7 +131,7 @@ La biotecnología se divide clásicamente por colores según su ámbito:
   -------------------- ---------------------- ----------------------------------------------------------------------------------------------------------
 
 ::: {style="text-align:center;"}
-![](_media/image7.png){width="6.5in"}
+![](media/image7.png){width="6.5in"}
 :::
 
 ## A. Biotecnología Roja (Salud y Medicina)
@@ -199,5 +199,5 @@ Como futuros científicos de la UGR, debéis saber que estas técnicas tienen l�
 - **Patentes:** Quién es dueño de las secuencias de ADN y el acceso justo a estas tecnologías.
 
 ::: {style="text-align:center;"}
-![](_media/image8.png){width="6.5in"}
+![](media/image8.png){width="6.5in"}
 :::

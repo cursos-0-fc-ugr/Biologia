@@ -6,7 +6,9 @@ page-layout: full
 
 Curso cero de Biología para la Facultad de Ciencias de la Universidad de Granada. Puedes encontrar otros cursos cero de nuestro centro en este [enlace](https://cursos-0-fc-ugr.github.io/).
 
-Material elaborado por para el Curso Cero de la UGR por
+Material elaborado por para el Curso Cero de la UGR por Margarita López Fernández, Amada Pulido Regadera, Olivia María Sanllorente Bolinches y José Ángel Traverso Gutiérrez.
+
+
 
 Este repositorio se puede visitar en [GitHub pages](https://github.com/dblanco-sudo/Biologia/).
 
@@ -22,7 +24,7 @@ Para esta edición se han actualizado los contenidos y adaptado a la LOMLOE. La 
 - [Las Biomoléculas](Tema4_Biomoleculas/Tema4.html)
 - [Genética Molecular](Tema5_Genetica_Molecular/Tema5.html)
 - [El Estudio de la Célula y su Visualización](Tema6_Estudio_Celula_Visualizacion/Tema6.html)
-- [La Célula y sus componentes](Tema7_Celula_Componentes/Tema7.html)
+- [La Célula y sus Componentes](Tema7_Celula_Componentes/Tema7.html)
 - [El Ciclo Celular, Mitosis y Meiosis](Tema8_Ciclo_Celular/Tema8.html)
 - [El Metabolismo Celular](Tema9_Metabolismo_Celular/Tema9.html)
 - [Biotecnología](Tema10_Biotecnologia/Tema10.html)

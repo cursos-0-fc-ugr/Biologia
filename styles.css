@@ -1,0 +1,43 @@
+.math.inline mjx-container {
+  font-size: 1em !important;
+}
+
+.interfase-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.interfase-table th,
+.interfase-table td {
+  border: 1px solid #d9d9d9;
+  padding: 0.65rem;
+}
+
+.interfase-table tbody tr:nth-child(odd) td {
+  background-color: #ffffff;
+}
+
+.interfase-table tbody tr:nth-child(even) td {
+  background-color: #f3f3f3;
+}
+
+.mitosis-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mitosis-table th,
+.mitosis-table td {
+  border: 1px solid #d9d9d9;
+  padding: 0.65rem;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.mitosis-table tbody tr:nth-child(odd) td {
+  background-color: #ffffff;
+}
+
+.mitosis-table tbody tr:nth-child(even) td {
+  background-color: #f3f3f3;
+}

@@ -201,10 +201,6 @@ En una reacción enzimática:
 
 donde E, S y P representan enzima, sustrato y producto, respectivamente. ES y EP son complejos de la enzima con el sustrato y con el producto, respectivamente.
 
-::: {style="text-align:center;"}
-![](media/image10.png){width="5.740248250218722in"}
-:::
-
 Muchas enzimas necesitan componentes no proteicos para ser activas: **cofactores** (iones como Zn^2+^) o **coenzimas** (vitaminas).
 
 **Importancia Dietética:** El organismo no puede sintetizar vitaminas o aminoácidos esenciales, por lo que su carencia provoca enfermedades como el escorbuto o la anemia.

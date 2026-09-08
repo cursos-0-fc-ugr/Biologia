@@ -17,7 +17,7 @@ format:
 ![](media/image1.png){width="6.199154636920385in"}
 :::
 
-El reino de las plantas, formado por organismos pluricelulares y autótrofos, no es un grupo estático, presenta una complejidad asombrosa que sostiene la vida en nuestro planeta. Al carecer de movilidad propia, las plantas han evolucionado mediante estrategias de adaptación únicas, optimizando la captura de energía solar y la gestión de recursos hídricos en entornos muy diversos. Este bloque te proporcionará una visión integral, desde el funcionamiento celular en la **fotosíntesis** hasta la sofisticada red de transporte de **savia** que recorre sus tejidos conductores. Analizaremos también cómo las **fitohormonas** actúan como \"mensajeros químicos\" para responder a estímulos ambientales y cómo sus complejos **ciclos reproductivos** garantizan la variabilidad genética. Comprender estos mecanismos no es solo teoría biológica; es la base necesaria para abordar con éxito estudios sobre impacto ambiental o la gestión de ecosistemas naturales.
+El reino de las plantas, formado por organismos pluricelulares y autótrofos, no es un grupo estático, presenta una complejidad asombrosa que sostiene la vida en nuestro planeta. Al carecer de movilidad propia, las plantas han evolucionado mediante estrategias de adaptación únicas, optimizando la captura de energía solar y la gestión de recursos hídricos en entornos muy diversos. Este bloque te proporcionará una visión integral, desde el funcionamiento celular en la **fotosíntesis** hasta la sofisticada red de transporte de **savia** que recorre sus tejidos conductores. Analizaremos también cómo las **fitohormonas** actúan como \"mensajeros químicos\" para responder y adaptarse a estímulos ambientales y cómo sus complejos **ciclos reproductivos** garantizan la variabilidad genética y su supervivencia. Comprender estos mecanismos no es solo teoría biológica; es la base necesaria para abordar con éxito estudios sobre impacto ambiental o la gestión de ecosistemas naturales.
 
 ::: {style="text-align:center;"}
 ![](media/image2.png){width="6.270138888888889in"}
@@ -43,11 +43,11 @@ Es esencial para la vida porque:
 
 Este proceso no ocurre en un solo paso; se divide en dos fases distintas pero interconectadas que tienen lugar en diferentes partes del **cloroplasto**:
 
-- **[Fase Fotoquímica (Luminosa):]{.underline}** Ocurre en los **tilacoides** del cloroplasto (los sacos aplanados dentro del cloroplasto). Es aquí donde se encuentran los pigmentos fotosintéticos (clorofilas, carotenoides) organizados en fotosistemas que absorben la luz.
+- **[Fase Fotoquímica :]{.underline}** Ocurre en los **tilacoides** del cloroplasto (los sacos aplanados dentro del cloroplasto). Es aquí donde se encuentran los pigmentos fotosintéticos (clorofilas, carotenoides) organizados en fotosistemas que absorben la luz.
 
    **Proceso Clave:** La luz excita a los pigmentos, lanzando electrones a través de una cadena de transporte (similar a la respiración celular).
 
-   **Los 3 Hitos de la Fase Lumínica:**
+   **Los 3 Hitos de la Fase Fotoquímica:**
 
      - **Fotólisis del Agua:** La energía de la luz rompe una molécula de agua (H2O), liberando electrones para reponer los perdidos por los pigmentos, protones (H+) y, **oxígeno molecular (O~2~)**, que es expulsado a la atmósfera como \"desecho\".
 
@@ -55,7 +55,7 @@ Este proceso no ocurre en un solo paso; se divide en dos fases distintas pero in
 
      - **Reducción de NADP+ a NADPH:** El aceptor final de electrones es el NADP+, que se convierte en **NADPH** (Poder Reductor).
 
-   **En resumen:** La fase lumínica produce **ATP, NADPH y O₂**. Los dos primeros son la \"moneda energética\" y el \"poder reductor\" necesarios para la siguiente fase.
+   **En resumen:** La fase fotoquímica produce **ATP, NADPH y O₂**. Los dos primeros son la \"moneda energética\" y el \"poder reductor\" necesarios para la siguiente fase.
 
 - **[Fase Bioquímica (Ciclo de Calvin):]{.underline}** Ocurre en el **estroma** (el espacio fluido que rodea a los tilacoides), se utiliza el ATP y el NADPH para fijar el CO2 y sintetizar azúcares gracias al ciclo de Calvin.
 
@@ -65,7 +65,7 @@ Este proceso no ocurre en un solo paso; se divide en dos fases distintas pero in
 
      - **Fijación del Carbono:** La enzima clave, **RuBisCO** (quizás la proteína más abundante de la Tierra), une una molécula de CO~2~ a una de 5 carbonos (Ribulosa 1,5-bisfosfato).
 
-     - **Reducción:** Se usan el ATP (energía) y el NADPH (electrones) de la fase lumínica para \"reducir\" el carbono y fabricar moléculas de G3P (un precursor de la glucosa).
+     - **Reducción:** Se usan el ATP (energía) y el NADPH (electrones) de la fase fotoquímica para \"reducir\" el carbono y fabricar moléculas de G3P (un precursor de la glucosa).
 
      - **Regeneración:** La mayor parte del G3P se usa para regenerar la molécula original de 5 carbonos para que el ciclo continúe. El resto se extrae del ciclo para sintetizar glucosa y otros compuestos orgánicos.
 
